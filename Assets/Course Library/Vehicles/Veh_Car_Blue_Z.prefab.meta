@@ -1,8 +1,23 @@
 fileFormatVersion: 2
 guid: 09082afec7b5e824ca611a0cc3264bcd
-timeCreated: 1478986979
-licenseType: Store
-NativeFormatImporter:
+labels:
+- Advanced
+- Architecture
+- Audio
+- Character
+- Effect
+- Ground
+- Prop
+- Road
+- Sky
+- Terrain
+- Vegetation
+- Vehicle
+- Wall
+- Water
+- Weapon
+PrefabImporter:
+  externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
